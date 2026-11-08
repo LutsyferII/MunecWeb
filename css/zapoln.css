@@ -1,0 +1,67 @@
+.zap_sql{
+    color:aliceblue;
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.zapoln_pass{
+    width:40%;
+}
+.zapoln_input_pass{
+    width:100%;
+}
+.zapoln_div_zag{
+    width: 100%;
+
+}
+.zapoln_body{
+    width: 100%;
+}
+.zapoln_file{
+
+}
+.zapoln_submit{
+
+}
+.zapoln_input_zag{
+    font-size: 25px;
+    width: 100%;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #bdbdbd;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.zapoln_input_body{
+    width: 100%;
+    font-size: 15px;
+    
+}
+.zapoln_sub{
+
+        appearance: none;
+        border: 0;
+        border-radius: 5px;
+        background: #ff0000;
+        color: #fff;
+        padding: 8px 16px;
+        font-size: 16px;
+}
+.zapoln_sub:hover{
+    background: #1d49aa;
+}
+.zapoln_sub:focus{
+    outline: none;
+  box-shadow: 0 0 0 4px #cbd6ee;
+}
+.zapoln_input_file{
+    border-radius: 5px;
+    padding: 5px 5px;
+    font-size: 10px;
+    background: #4676D7;
+}
+.zapoln_img_img{
+    width: 200px;
+}
